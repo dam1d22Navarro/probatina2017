@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 
+=======
+fdfdfdfdfdfdf fdfdfd fdfdfdf
+111
+DANIEL
+>>>>>>> desarrollo
